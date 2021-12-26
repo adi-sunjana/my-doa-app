@@ -1,0 +1,18 @@
+[
+    { 
+        "label" : "Home",
+        "type"  : "link",
+        "url"   : "/home"
+
+    },
+    {
+        "lable" : "Doa",
+        "type"  : "link",
+        "url"   : "/doa"
+    },
+    {
+        "lable" : "Read Qur'an",
+        "type"  : "link",
+        "url"   : "/read-quran"
+    }
+]
